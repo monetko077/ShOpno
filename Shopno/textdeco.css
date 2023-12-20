@@ -1,0 +1,18 @@
+@import url(https://fontstorage.com/ru/);
+
+
+.blue{
+    height: 4px;
+    background-color: #8ee9d7;
+    border: #8ee9d7;
+}
+
+
+::selection{
+    background-color: #8ee9d7;
+    color: black;
+}
+
+
+
+
